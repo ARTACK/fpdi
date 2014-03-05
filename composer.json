@@ -1,6 +1,6 @@
 {
-    "name": "itbz/fpdi",
-    "description": "Unofficial PSR-0 compliant version of the FPDI library",
+    "name": "artack/fpdi",
+    "description": "Fork of an Unofficial PSR-0 compliant version of the FPDI library",
     "type": "library",
     "license": "Apache-2.0",
     "require": {
