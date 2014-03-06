@@ -28,7 +28,7 @@ if (class_exists('TCPDF', false)) {
 #require_once('fpdi_pdf_parser.php');
 
 
-class FPDI_EXTENDED extends FPDF_TPL_EXTENDED {
+class FPDIEXTENDED extends FPDF_TPLEXTENDED {
     /**
      * Actual filename
      * @var string
